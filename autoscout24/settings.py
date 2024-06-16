@@ -26,7 +26,7 @@ SCRAPEOPS_NUM_RESULTS = 50
 #USER_AGENT = "autoscout24 (+http://www.yourdomain.com)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
